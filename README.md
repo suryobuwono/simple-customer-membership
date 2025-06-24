@@ -1,4 +1,4 @@
-# PacCommerce: A Simple Customer Membership Management System
+# Python Project: A Simple Customer Membership Management System
 
 A simple Python-based customer membership management system designed for a fictional e-commerce service called **PacCommerce**. PacCommerce offers three membership tiers — **Platinum**, **Gold**, and **Silver** — each with its own unique benefits and requirements. This program includes functionality for storing a member database, displaying benefits, checking requirements, automatically predicting membership tiers using Euclidean distance, verifying user identities, calculating price discounts, and providing admin-level access for user management.
 
